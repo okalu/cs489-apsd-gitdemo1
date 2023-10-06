@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LabSolutions/Lab1a/task4/ProductManagmentAPP/ProductManagmentAPP.iml" filepath="$PROJECT_DIR$/LabSolutions/Lab1a/task4/ProductManagmentAPP/ProductManagmentAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabSolutions/Lab1a/ProductMgntAPP/ProductMgntAPP.iml" filepath="$PROJECT_DIR$/LabSolutions/Lab1a/ProductMgntAPP/ProductMgntAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedisSample/RedisSample.iml" filepath="$PROJECT_DIR$/RedisSample/RedisSample.iml" />
+    </modules>
+  </component>
+</project>
